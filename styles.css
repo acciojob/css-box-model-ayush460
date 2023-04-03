@@ -1,18 +1,16 @@
-.box {
- 
-
-  border: 15px solid #01AEBD;
-  margin: 20px;
+.p{
+	border:2px solid black;
+	width:400px;
+	height:250px;
 }
-
-h2 {
-border:15px solid #5B49F7;
+.q{
+	margin:20px 20px 20px;
+	height:180px;
+	
+	border:18px solid #5A49F6;
+    background:#01AEBF;
 }
-
-
-p {
+r{
 	width:300px;
 	
-  padding:50px;
-	background:
 }
