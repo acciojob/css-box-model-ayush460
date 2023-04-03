@@ -1,2 +1,18 @@
+.box {
+ 
 
-/* Your CSS Code here. */
+  border: 15px solid #01AEBD;
+  margin: 20px;
+}
+
+h2 {
+border:15px solid #5B49F7;
+}
+
+
+p {
+	width:300px;
+	
+  padding:50px;
+	background:
+}
